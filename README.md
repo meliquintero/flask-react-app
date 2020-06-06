@@ -1,7 +1,5 @@
 # flask-react-app
 
-# flask-react-app
-
 From home directory run:
 <br>
 `python server/main.py`
